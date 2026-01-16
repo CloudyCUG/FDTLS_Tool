@@ -1,0 +1,2 @@
+merge-circle-10m.ply：LAI=2.599894361964706
+merge-triangle-10m.ply：LAI=2.7164533988571424

@@ -1,0 +1,16 @@
+merge-circle-10m.ply
+0
+10
+0
+10
+0.05
+0
+1.02
+merge-triangle-10m.ply
+0
+10
+0
+10
+0.05
+0
+1.05
